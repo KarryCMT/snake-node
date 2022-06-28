@@ -41,7 +41,7 @@ Article.init(
       allowNull: true
     }
   },
-  merge(  
+  merge(
     {
       sequelize,
       tableName: 'm_article',
